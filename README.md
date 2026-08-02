@@ -2,8 +2,6 @@
 
 A simple RESTful API built with **Node.js** and **Express.js** for managing student records. This project demonstrates backend development fundamentals including CRUD operations, routing, request handling, and data validation.
 
-> 🚀 Developed as **Project 2** during the **DecodeLabs Full Stack Development Industrial Training (2026)**.
-
 ---
 
 ## 📌 Features
